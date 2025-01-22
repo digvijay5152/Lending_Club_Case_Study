@@ -28,13 +28,13 @@
         13.dti - A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, excluding mortgage and the requested LC loan, divided by the borrower’s self-reported monthly income.
 
 ## Technologies Used:
-- pandas - version 1.0
-- numpy  - version 2.0
-- seaborn - version 3.0
-- matplotlib - 
-- plotly - 
-- datetime - 
-- warnings - 
+- pandas 
+- numpy 
+- seaborn
+- matplotlib
+- plotly
+- datetime
+- warnings 
 
 ## Key Insights:
 - 14% of the loans are defaulted.
